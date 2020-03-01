@@ -1,5 +1,5 @@
-Project Credit: Web Dev Simplified
-Youtube: https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
+#Project Credit: Web Dev Simplified
+##Youtube: https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw
 
 Kyle at Web Dev Simplified created and shared this project. 
 I just added the output feature to copy and paste into your own css. 
